@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vladyslav
 
-I'm a **Junior DevOps Engineer** from Europe with a strong background in **System Administration**, **Cybersecurity**, and **IT Automation**.
+I'm a **DevOps Engineer** from Europe with a strong background in **System Administration**, **Cybersecurity**, and **IT Automation**.
 
 I’m currently deepening my skills in **DevOps**, **Cloud Technologies**, and **Secure Infrastructure Deployment**.
 
