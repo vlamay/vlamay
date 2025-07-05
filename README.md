@@ -51,8 +51,6 @@ I’m currently deepening my skills in **DevOps**, **Cloud Technologies**, and *
 
 - ✉️ Email: [vla.maidaniuk@gmail.com](mailto:vla.maidaniuk@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/maidaniuk](https://www.linkedin.com/in/maidaniuk/)
-- 📂 GitHub Portfolio: [github.com/vlamay](https://github.com/vlamay)
-
 ---
 
 > 🛡️ _Let’s build secure, automated, and resilient infrastructure — one pipeline at a time._
