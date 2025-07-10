@@ -30,14 +30,9 @@ I'm currently deepening my skills in **DevOps**, **Cloud Technologies**, and **S
 
 ## 🛠️ Tech Stack & Tools
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white&style=flat)
-![Fly.io](https://img.shields.io/badge/-Fly.io-011931?logo=flydotio&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+- 🐳 Docker • ☸️ Kubernetes • 🎯 GitHub Actions • 🐍 Python • 📦 Helm  
+- 🧪 Pytest • 🛡️ Secrets Management • 🌍 Fly.io • 🔐 Bash • ⚙️ Linux
+
 
 ---
 
