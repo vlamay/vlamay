@@ -13,8 +13,7 @@ I'm currently focused on improving my skills in **DevOps, Cloud Platforms**, and
 - 🔧 [**ci-cd-pipeline-b2b**](https://github.com/vlamay/ci-cd-pipeline-b2b)  
   B2B SaaS CI/CD scaffold with FastAPI, Docker, GitHub Actions, and Fly.io.  
   🧪 Includes automated testing, build pipeline, staging & production environments.  
-  🌐 [Live Demo (Staging)](https://ci-cd-staging.fly.dev)
-
+  
 - ⚙️ [**devops-k8s-api-deploy**](https://github.com/vlamay/devops-k8s-api-deploy)  
   REST API deployment to Kubernetes using Minikube, Docker, and GitHub Actions.  
   ✅ Great example of microservice containerization + GitOps workflow.
