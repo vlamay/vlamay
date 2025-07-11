@@ -8,87 +8,110 @@ I'm currently focused on improving my skills in **DevOps, Cloud Platforms**, and
 
 ---
 
-## 📂 Featured Projects
+## 📦 Project Structure
 
-- 🔧 [**ci-cd-pipeline-b2b**](https://github.com/vlamay/ci-cd-pipeline-b2b)  
-  B2B SaaS CI/CD scaffold with FastAPI, Docker, GitHub Actions, and Fly.io.  
-  🧪 Includes automated testing, build pipeline, staging & production environments.  
-  
-- ⚙️ [**devops-k8s-api-deploy**](https://github.com/vlamay/devops-k8s-api-deploy)  
-  REST API deployment to Kubernetes using Minikube, Docker, and GitHub Actions.  
-  ✅ Great example of microservice containerization + GitOps workflow.
-
-- 🛰️ [**orionops-suite**](https://github.com/vlamay/orionops-suite)  
-  Full-stack template with Django REST API, GitHub CI/CD, Docker Compose, PostgreSQL, and Kubernetes manifests.
-
----
-
-## 🚀 What I Do
-
-- 🐳 Application containerization using **Docker** and `docker-compose`
-- ☸️ Kubernetes deployments with **Minikube**, **Helm**, and manifest templates
-- ⚙️ CI/CD automation with **GitHub Actions**
-- 🌍 Cloud deployments on **Fly.io** with automatic staging/production split
-- 🔐 Secrets management and access policy automation
-- 🧪 Automated testing using **pytest**, Docker-based test containers
-- 🧱 Building multi-stage Docker images for production
-- 💾 Dependency isolation using `venv` and `pipx`
-- 🔧 Scripting in **Bash**, **PowerShell**, and **Python**
-- 📦 Infrastructure automation using `Makefile`, `fly.toml`, and declarative config
+```
+.
+├── cpp-service/
+├── csharp-service/
+├── java-service/
+├── python-service/
+├── docker-compose.yml
+├── Makefile
+├── .github/workflows/ci.yml
+└── docs/
+    └── architecture.png
+```
 
 ---
 
-## 🧠 Tech Stack & Tools
+## ⚙️ Features
 
-| Category            | Technologies |
-|---------------------|--------------|
-| **Containers**      | Docker, docker-compose |
-| **Orchestration**   | Kubernetes, Minikube, Helm |
-| **CI/CD**           | GitHub Actions, Fly.io Deploy |
-| **Languages**       | Python, Bash, PowerShell |
-| **Databases**       | PostgreSQL |
-| **Version Control** | Git, GitHub |
-| **OS/Systems**      | Linux (Debian/Ubuntu), Windows WSL |
-| **Monitoring (WIP)**| Prometheus, Grafana (planned for next phase) |
+- Multi-language microservices (C++, C#, Java, Python)
+- GitHub Actions CI/CD with matrix builds and curl testing
+- Docker Compose for local orchestration
+- Kubernetes-ready with Helm support (coming soon)
+- `/metrics` endpoints for Prometheus compatibility
+- Modular folder structure with individual Dockerfiles
+- Makefile with `make up`, `make test`, `make deploy`
+
+---
+
+## 🧠 Tech Stack
+
+| Category       | Tools                            |
+|----------------|----------------------------------|
+| Containers     | Docker, docker-compose           |
+| CI/CD          | GitHub Actions                   |
+| Monitoring     | Prometheus, Grafana              |
+| Languages      | C++, C#, Java, Python            |
+| Kubernetes     | Minikube (optional)              |
+| Security       | Trivy, Hadolint, docker scan     |
+
+---
+
+## ✅ Quick Start
+
+### 🐳 Docker Compose
+
+```bash
+docker-compose up --build
+```
+
+### 🔁 GitHub Actions CI
+
+Auto-triggers on push/pull request. Matrix build:
+
+- Build Docker image
+- Run container
+- Curl test on `/health` and `/metrics`
+
+---
+
+## 📊 Monitoring (Optional)
+
+To enable metrics scraping and dashboards:
+
+1. Install Prometheus + Grafana in Minikube
+2. Services expose `/metrics` endpoints
+3. Screenshots available in `docs/metrics.md`
+
+---
+
+## 📄 Makefile
+
+```bash
+make up        # docker-compose up
+make test      # curl tests
+make deploy    # kubectl apply -f k8s/
+```
+
+---
+
+## 🛡️ DevSecOps
+
+- `.env.example` and `.gitignore` configured
+- GitHub secrets: `GITHUB_TOKEN`, `FLY_API_TOKEN`
+- CI includes: `trivy`, `hadolint`, `yamllint` (optional setup)
+
+---
+
+## 📚 Documentation
+
+- [`docs/architecture.png`](docs/architecture.png)
+- [`docs/metrics.md`](docs/metrics.md) – monitoring screenshots
+
+---
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/maidaniuk)
+- [Resume (PDF)](https://github.com/vlamay/resume/blob/main/maidaniuk-devops-resume.pdf)
 
 ---
 
 ## 🏆 Achievements
 
-- 🔄 Successfully implemented **end-to-end CI/CD** with GitHub Actions & Fly.io
-- 🚀 Reduced deployment time from manual ~10min to fully automated ~1min
-- 🧪 Built tests into pipeline using `pytest` and Docker containers
-- 🛡️ Hardened container environments with reduced base images & secrets handling
-- 💬 Wrote clean technical documentation and `README.md` with clear setup steps
-
----
-
-## 🔍 Looking For
-
-🎯 I'm actively looking for a **Junior/Middle DevOps position** or **internship** where I can:
-
-- Work with modern CI/CD tooling and cloud infrastructure
-- Contribute to real-world automation and deployment challenges
-- Grow within a collaborative team and ship production systems
-
----
-
-## 📜 Certifications (optional section)
-
-- ✅ **DevOps Foundations – Coursera**
-- ✅ **Linux System Administration – edX**
-- ✅ **Docker & Kubernetes Essentials – Udemy**
-- 📌 *Available upon request or GitHub repo*
-
----
-
-## 📫 Contact
-
-- 📧 vla.maidaniuk@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/maidaniuk)  
-- 💻 GitHub: [@vlamay](https://github.com/vlamay)
-
----
-
-> *“Automate everything. Secure everything. Document everything.”*  
-> — My DevOps philosophy ☁️🛠️🔐
+- Full CI/CD across multi-language services
+- Metrics-ready microservices
+- Organized and documented DevOps project
