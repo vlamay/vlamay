@@ -4,7 +4,7 @@
 I design and deliver **reliable, secure, and scalable systems** with a focus on **CI/CD, observability, and DevSecOps**.  
 
 🌍 Based in Prague · Valid **Canada Work Permit until 2029**  
-🔗 [LinkedIn](https://www.linkedin.com/in/maidaniuk) | [Resume (PDF)](https://github.com/vlamay/resume-and-case-studies/blob/main/maidaniuk-devops-resume.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/maidaniuk) |
 
 ---
 
