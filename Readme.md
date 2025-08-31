@@ -84,13 +84,3 @@ I design and deliver **reliable, secure, and scalable systems** with a focus on 
 
 ---
 
-## ✅ CI/CD & Security Badges (Example)  
-
-![CI](https://github.com/vlamay/k8s-helm-api-stack/actions/workflows/ci.yml/badge.svg)  
-![Security Scan](https://github.com/vlamay/k8s-helm-api-stack/actions/workflows/trivy.yml/badge.svg)  
-![Lint](https://github.com/vlamay/k8s-helm-api-stack/actions/workflows/lint.yml/badge.svg)  
-![Release](https://img.shields.io/github/v/release/vlamay/k8s-helm-api-stack?style=flat-square)  
-
----
-
-💡 *Always learning, always building. Exploring the intersection of **DevOps, SRE, and Security***.  
