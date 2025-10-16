@@ -323,7 +323,7 @@ I help fintech companies build secure, compliant, and scalable cloud infrastruct
 
 **Email:** vla.maydanov@icloud.com  
 **Phone:** +420 721 579 603  
-**Telegram:** [@vlamay](https://t.me/vlamay)
+**Telegram:** [@vlamay](https://t.me/vm_devops)
 
 </div>
 
