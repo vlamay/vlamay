@@ -24,6 +24,50 @@
 
 ---
 
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlamay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=vlamay&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlamay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vlamay&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📚 **Currently Learning**
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-Certification-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+**Current Focus Areas:**
+- 🎯 **AWS Solutions Architect Associate** certification preparation
+- 🎯 **Certified Kubernetes Administrator (CKA)** exam preparation
+- 🎯 **Go** programming language for cloud-native development
+- 🎯 **Rust** for systems programming and performance-critical applications
+- 🎯 **Advanced SRE practices** and distributed systems design
+
+---
+
 ## 🧠 **Core Tech Stack**
 
 ### **Cloud & Infrastructure**
